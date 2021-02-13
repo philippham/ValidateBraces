@@ -1,0 +1,13 @@
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.csprojAssemblyReference.cache
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.AssemblyInfoInputs.cache
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.AssemblyInfo.cs
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.csproj.CoreCompileInputs.cache
+C:\Users\pnpham\Source\Repos\Rokt\bin\Debug\netcoreapp3.1\Rokt.exe
+C:\Users\pnpham\Source\Repos\Rokt\bin\Debug\netcoreapp3.1\Rokt.deps.json
+C:\Users\pnpham\Source\Repos\Rokt\bin\Debug\netcoreapp3.1\Rokt.runtimeconfig.json
+C:\Users\pnpham\Source\Repos\Rokt\bin\Debug\netcoreapp3.1\Rokt.runtimeconfig.dev.json
+C:\Users\pnpham\Source\Repos\Rokt\bin\Debug\netcoreapp3.1\Rokt.dll
+C:\Users\pnpham\Source\Repos\Rokt\bin\Debug\netcoreapp3.1\Rokt.pdb
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.dll
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.pdb
+C:\Users\pnpham\Source\Repos\Rokt\obj\Debug\netcoreapp3.1\Rokt.genruntimeconfig.cache
